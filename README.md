@@ -1,5 +1,6 @@
-## Hi there 👋
 
+# Hi there 👋, I'm Srimathi  
+**Computer Science and Business Systems Student | Aspiring Software Engineer and Data Science Enthusiast**
 <!--
 **Srimathi1306/Srimathi1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠 Skills & Tools
+**Languages:** Java, C, C++, HTML, CSS, JavaScript  
+**Frameworks & Libraries:** React, Tailwind CSS  
+**Tools & Platforms:** GitHub, VS Code
