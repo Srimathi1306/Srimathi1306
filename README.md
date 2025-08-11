@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 💡 About Me
+- 🎓 Business Management student with a passion for software development.  
+- 💻 Skilled in **Java, C, C++, HTML, CSS, JavaScript**.  
+- 🚀 Experienced in projects like **ASL Sign-to-Text Chatbot**, **Video Conferencing App**, and **Smart Waste Bin with AI classification**.  
+- 🌱 Currently learning **API Integration** and **Data Structures & Algorithms (Java)**.  
+- 🎯 Career Goal: To create impactful, scalable, and user-friendly software solutions.  
+
+---
 ## 🛠 Skills & Tools
 **Languages:** Java, C, C++, HTML, CSS, JavaScript  
 **Frameworks & Libraries:** React, Tailwind CSS  
