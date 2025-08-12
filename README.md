@@ -29,3 +29,12 @@ Here are some ideas to get you started:
 **Languages:** Java, C, C++, HTML, CSS, JavaScript  
 **Frameworks & Libraries:** React, Tailwind CSS  
 **Tools & Platforms:** GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+- **ASL Sign-to-Text Chatbot** – Converts American Sign Language into text for accessible communication.  
+- **Video Conferencing Web App** – Real-time meeting platform with translation and summarization features.  
+- **Smart Waste Bin** – AI-powered waste segregation and composting system.  
+
+---
