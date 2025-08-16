@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 Business Management student with a passion for software development.  
 - 💻 Skilled in **Java, C, C++, HTML, CSS, JavaScript**.  
 - 🚀 Experienced in projects like **ASL Sign-to-Text Chatbot**, **Video Conferencing App**, and **Smart Waste Bin with AI classification**.  
-- 🌱 Currently learning **API Integration** and **Data Structures & Algorithms (Java)**.  
+- 🌱 Currently learning **API Integration** and **Data Structures & Algorithms (Java) ,cloud computing**.  
 - 🎯 Career Goal: To create impactful, scalable, and user-friendly software solutions.  
 
 ---
