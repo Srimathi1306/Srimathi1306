@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 🛠 Skills & Tools
 **Languages:** Java, C, C++, HTML, CSS, JavaScript  
 **Frameworks & Libraries:** React, Tailwind CSS  
-**Tools & Platforms:** GitHub, VS Code
+**Tools & Platforms:** GitHub, VS Code, Figma
 
 ---
 
